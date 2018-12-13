@@ -32,8 +32,7 @@ public class PickFlavorViewController: UIViewController {
     
     
     
-    
-    
+
   // MARK: - Outlets
   @IBOutlet var contentView: UIView!
   @IBOutlet var collectionView: UICollectionView!
