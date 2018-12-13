@@ -19,7 +19,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-
 import UIKit
 import Alamofire
 import MBProgressHUD
@@ -30,6 +29,11 @@ public class PickFlavorViewController: UIViewController {
   public var flavors: [Flavor] = []
   fileprivate let flavorFactory = FlavorFactory()
 
+    
+    
+    
+    
+    
   // MARK: - Outlets
   @IBOutlet var contentView: UIView!
   @IBOutlet var collectionView: UICollectionView!
